@@ -1,5 +1,7 @@
 This source code for the article 3D Image Annotation using Deep Learning and View-based Image Features is released to the public. Its use is permitted subject to the author's rights.
+
 To use:
+
 1. It is better to use Pycharm software.
 2. Install the required modules.
 3. Change the paths given in the program according to your system's path.
