@@ -1,0 +1,10 @@
+bench
+chair
+desk
+guitar
+laptop
+piano
+radio
+sofa
+stool
+xbox

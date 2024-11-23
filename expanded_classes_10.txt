@@ -1,0 +1,10 @@
+bench artificial seat
+chair artificial wheelchair seat 
+desk table writing_table
+guitar music singer musical_Instruments artificial
+laptop portable_computer video_game game fun electronic music typing
+piano music sound musical_Instruments 
+radio music sound news cassette electronic
+sofa seat comfort quiet lull 
+stool seat end_table 
+xbox video_game game fun electronic
